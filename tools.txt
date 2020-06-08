@@ -1,6 +1,9 @@
 shellcheck
 NERDTree
 .vimrc
+convert
+tldr
+tree
 
 set nocompatible              " be iMproved, requiredG
 filetype off                  " required
